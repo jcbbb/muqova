@@ -1,13 +1,11 @@
 ---
 path: '/team/sage-kirk'
-title: 'Sage Kirk'
+title: 'Juraev Sohib'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: '/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Accountant'
-email: 'sage@test.com'
-linkedinurl: 'www.linkedin.com/sagekirk21'
+image: '/team/IMG_20200801_173922_392.jpg'
+jobtitle: 'Специалист'
+email: 'sohib1999@gmail.com'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.

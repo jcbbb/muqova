@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/mnt/d/Data/HTML/gatsby-serif/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/jc/Data/HTML/muqova/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/mnt/d/Data/HTML/gatsby-serif/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/home/jc/Data/HTML/muqova/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-XXX-1","head":false},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
